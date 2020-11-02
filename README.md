@@ -1,20 +1,10 @@
 ### Hi there, I'm Gururaj! 👋
 
-### 🔭 I’m currently working on Hoteling Platform
-### 🌱 I’m currently learning Typescript and Angular
-### 💬 Ask me about Angular, Typescript 
+- 🔭 I’m currently working on Angular
+- 🌱 I’m currently learning Typescript and Angular
+- 💬 Ask me about Angular, Typescript
+- 📫 How to reach me: [@gururaj_dev](https://twitter.com/gururaj_dev)
 
-<!--
-**rajguru827/rajguru827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Gururaj Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rajguru827&show_icons=true&include_all_commits=true&theme=radical)
 
-Here are some ideas to get you started:
-
-### 🔭 I’m currently working on Hoteling Platform
-### 🌱 I’m currently learning Typescript and Angular
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-###💬 Ask me about Angular, Typescript 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Gururaj Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rajguru827&layout=compact&theme=radical)
