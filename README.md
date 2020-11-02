@@ -1,5 +1,9 @@
 ### Hi there, I'm Gururaj! 👋
 
+### 🔭 I’m currently working on Hoteling Platform
+### 🌱 I’m currently learning Typescript and Angular
+### 💬 Ask me about Angular, Typescript 
+
 <!--
 **rajguru827/rajguru827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
